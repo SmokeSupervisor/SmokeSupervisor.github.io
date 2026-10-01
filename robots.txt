@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smokesupervisor.github.io/sitemap.xml
